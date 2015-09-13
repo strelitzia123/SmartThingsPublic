@@ -15,7 +15,7 @@ private getServerUrl() 		{ "https://graph.api.smartthings.com" }
 
 // Automatically generated. Make future change here.
 definition(
-    name: "Netatmo (Connect)",
+    name: "Netatmo (Connect Therm)",
     namespace: "dianoga",
     author: "Brian Steere",
     description: "Netatmo Integration",
